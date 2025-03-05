@@ -1,10 +1,6 @@
 # Ignore build files
 *.exe
-*.o
-*.obj
-*.dll
-*.so
-*.dylib
+
 
 # Ignore database file
 src/bank.db
