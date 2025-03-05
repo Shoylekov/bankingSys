@@ -1,4 +1,4 @@
-🏦 # Bank Management System in C++ with SQLite
+# Bank Management System in C++ with SQLite 🏦
 
 A simple **Bank Management System** built in **C++** using **SQLite3** for data storage. This project demonstrates how to manage a basic banking system with operations for creating accounts, depositing and withdrawing funds, viewing account information, and deleting accounts—all while securely handling user data with SQL.
 
